@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VkApp</string>
+    <string name="template_text">кабаныч, когда узнал, что если сотрудникам не платить они начинают умирать с голода</string>
+    <string name="devnull_text">dev/null</string>
+    <string name="_206_text">206</string>
+    <string name="_208_text">208</string>
+    <string name="_11_text">11</string>
+    <string name="_491_text">491</string>
+</resources>
