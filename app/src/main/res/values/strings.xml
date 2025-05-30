@@ -6,4 +6,7 @@
     <string name="_208_text">208</string>
     <string name="_11_text">11</string>
     <string name="_491_text">491</string>
+    <string name="navigation_item_main">Главная </string>
+    <string name="navigation_item_favourite">Избранное </string>
+    <string name="navigation_item_profile">Профиль </string>
 </resources>

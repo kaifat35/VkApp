@@ -11,6 +11,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.example.vkapp.screens.MainScreen
 import com.example.vkapp.screens.PostCard
 import com.example.vkapp.ui.theme.VkAppTheme
 
@@ -22,8 +23,9 @@ class MainActivity : ComponentActivity() {
             VkAppTheme {
                 Box(modifier = Modifier
                     .fillMaxSize()
-                    .padding(8.dp)
+                    .padding(start = 8.dp, bottom = 40.dp, end = 8.dp, top = 40.dp)
                     .background(MaterialTheme.colorScheme.background)) {
+                    MainScreen()
                     PostCard()
                 }
             }
